@@ -2,4 +2,4 @@
 
 - [[AtomTM]]
 - [[Ilsand People]]
-- [[Kanding Ray]]
+- [[Kangding Ray]]

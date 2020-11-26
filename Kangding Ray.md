@@ -1,3 +1,3 @@
-# DJ Sets
+Kangding Ray - Techno artist with releases on [[Raster Norton]].
 
-- [[Kangding Ray Boiler Room Berlin Live Set]]
+One of my favourite sets by him is [[Kangding Ray Boiler Room Berlin Live Set]] 
