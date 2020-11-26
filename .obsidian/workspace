@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "f2445352788f9549",
+    "type": "split",
+    "children": [
+      {
+        "id": "d00dc0f7e35e75a0",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2020-11-26.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "df37d0a3eaf03875",
+    "type": "split",
+    "children": [
+      {
+        "id": "751f53413dd48dd6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a64fcfbda09661bd",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "2020-11-26.md",
+                "options": {
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "centerStrength": 0.319577991452991,
+                  "repelStrength": 10.4887820512821,
+                  "linkStrength": 0.434428418803419,
+                  "linkDistance": 249,
+                  "scale": 1.0333217213909514
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "54f380b02d921b61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d529e687b91385a9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0c289dc69683304d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "kad",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "12cbeeb3fbfc65e9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 275
+  },
+  "right": {
+    "id": "cba9cefd658baa40",
+    "type": "split",
+    "children": [
+      {
+        "id": "daca548a4dd73919",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35d66aa959961a97",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2020-11-26.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "9b889fc12183f593",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "b8b5c4e3284d261d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2020-11-26.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "lastOpenFiles": [
+    "2020-11-26.md",
+    "Kangding Ray.md",
+    "Kangding Ray Boiler Room Berlin Live Set.md",
+    "Kading Ray.md",
+    "Boiler Room.md",
+    "AtomTM - Liedgut.md",
+    "AtomTM - HD.md",
+    "AtomTM.md",
+    "Raster Norton.md",
+    "202011252026 How I Learned To Love Leidgut.md"
+  ]
+}
