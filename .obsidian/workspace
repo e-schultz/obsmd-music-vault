@@ -4,105 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9f2ea964abda8970",
-        "type": "split",
-        "children": [
-          {
-            "id": "1ad211d5cb13f845",
-            "type": "leaf",
-            "dimension": 39.0625,
-            "active": true,
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "working space test.md",
-                "mode": "preview"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "4796cc6c2dd2604e",
-            "type": "leaf",
-            "dimension": 60.9375,
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "working space test.md",
-                "options": {
-                  "search": "",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": true,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0.4,
-                  "nodeSizeMultiplier": 1.52000919117647,
-                  "lineSizeMultiplier": 2.49910845588235,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.45662207069498495
-                }
-              }
-            }
+        "id": "616d0167c8f67547",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "RA.519 Kangding Ray.md",
+            "mode": "preview"
           }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "bc6deaa73a0affa9",
-        "type": "split",
-        "children": [
-          {
-            "id": "de3395ca9b035e6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biosphere.md",
-                "mode": "preview"
-              }
-            },
-            "group": "a18ba7616920c3e4"
-          },
-          {
-            "id": "9e7544bd9b70dfee",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Biosphere.md",
-                "options": {
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.0992284506752168
-                }
-              }
-            },
-            "group": "a18ba7616920c3e4"
-          }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -166,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "working space test.md",
+                "file": "RA.519 Kangding Ray.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -191,28 +102,35 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "working space test.md"
+                "file": "RA.519 Kangding Ray.md"
               }
+            }
+          },
+          {
+            "id": "40d840502fdc58de",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "lastOpenFiles": [
-    "working space test.md",
-    "Resident Advisor.md",
     "RA.519 Kangding Ray.md",
-    "RA Podcast - 2016.md",
-    "RA Podcast.md",
-    "Resident Advisor - RA.md",
-    "alva noto.md",
-    "Lumisokea.md",
-    "Kangding Ray.md",
-    "Kanding Ray.md"
+    "2020-11-26.md",
+    "2020-11-27.md",
+    "2020-11-10.md",
+    "temp.md",
+    "working space test.md",
+    "The Bunker Podcast 129 - Atom™ & Tobias.md",
+    "MUTEK.md",
+    "202011252026 How I Learned To Love Leidgut.md",
+    "alva noto.md"
   ]
 }
