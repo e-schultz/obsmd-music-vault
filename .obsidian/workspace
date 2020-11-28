@@ -4,16 +4,62 @@
     "type": "split",
     "children": [
       {
-        "id": "616d0167c8f67547",
+        "id": "593acc2e0168c4ff",
         "type": "leaf",
+        "dimension": 38.6237513873474,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Art Bei Ton.md",
+            "mode": "source"
+          }
+        },
+        "group": "1c90957195c88024"
+      },
+      {
+        "id": "c7113d773173e498",
+        "type": "leaf",
+        "dimension": 30.688124306326298,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "RA.519 Kangding Ray.md",
+            "file": "Art Bei Ton.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "1c90957195c88024"
+      },
+      {
+        "id": "4b8869fb6ae2cdff",
+        "type": "leaf",
+        "dimension": 30.688124306326298,
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "Art Bei Ton.md",
+            "options": {
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1.6544233336605647
+            }
+          }
+        },
+        "group": "1c90957195c88024"
       }
     ],
     "direction": "vertical"
@@ -40,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#tk",
+                "query": "tag:#soundcloud",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,11 +103,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 207.5
+    "width": 207.5,
+    "collapsed": true
   },
   "right": {
     "id": "cba9cefd658baa40",
@@ -77,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RA.519 Kangding Ray.md",
+                "file": "Art Bei Ton.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -102,12 +150,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RA.519 Kangding Ray.md"
+                "file": "Art Bei Ton.md"
               }
             }
           },
           {
             "id": "40d840502fdc58de",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "256d44c30b612eb6",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -119,18 +175,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "lastOpenFiles": [
-    "RA.519 Kangding Ray.md",
-    "2020-11-26.md",
-    "2020-11-27.md",
-    "2020-11-10.md",
-    "temp.md",
-    "working space test.md",
+    "Art Bei Ton.md",
+    "Forsvarlig Podcast Series 084 - Klara.md",
+    "Forsvarlig Podcast Series 084 - Klara embed.md",
+    "Klara Vedis.md",
+    "Klara.md",
+    "Art Bei Ton Podcast 027 - Klara.md",
+    "Art Bei Ton Podcast 027 - Klara - embed.md",
+    "Art Bei Ton Podcast series.md",
     "The Bunker Podcast 129 - Atom™ & Tobias.md",
-    "MUTEK.md",
-    "202011252026 How I Learned To Love Leidgut.md",
-    "alva noto.md"
+    "Untitled 1.md"
   ]
 }
