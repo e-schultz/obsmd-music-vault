@@ -6,4 +6,4 @@ Not only promoting Art, we also focus on gender equality and diversity, by featu
 
 #soundcloud - https://soundcloud.com/art-bei-ton
 
-Art Bei Ton also features artists in their [[Art Bei Ton Podcast series]]
+Art Bei Ton also features artists in their [[Art Bei Ton Podcast]]

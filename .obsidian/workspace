@@ -4,62 +4,60 @@
     "type": "split",
     "children": [
       {
-        "id": "593acc2e0168c4ff",
-        "type": "leaf",
-        "dimension": 38.6237513873474,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Art Bei Ton.md",
-            "mode": "source"
+        "id": "a748aeacc46a8f01",
+        "type": "split",
+        "children": [
+          {
+            "id": "7815d8ef3b33e7a2",
+            "type": "split",
+            "dimension": 52.03094777562862,
+            "children": [
+              {
+                "id": "0ed81e1751c75655",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "daily/2020-11-28.md",
+                    "mode": "source"
+                  },
+                  "pinned": true
+                },
+                "group": "b5c72b1bd3fa619a"
+              },
+              {
+                "id": "a58ab25000f43aaf",
+                "type": "leaf",
+                "active": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "mnml ssgs mx23 natural electronic.system. from napoli to rotterdam mix.md",
+                    "mode": "source"
+                  }
+                }
+              }
+            ],
+            "direction": "horizontal"
+          },
+          {
+            "id": "324ff4ee6f56859d",
+            "type": "leaf",
+            "dimension": 47.969052224371374,
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2020-11-28.md",
+                "mode": "preview"
+              },
+              "pinned": true
+            },
+            "group": "b5c72b1bd3fa619a"
           }
-        },
-        "group": "1c90957195c88024"
-      },
-      {
-        "id": "c7113d773173e498",
-        "type": "leaf",
-        "dimension": 30.688124306326298,
-        "active": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Art Bei Ton.md",
-            "mode": "preview"
-          }
-        },
-        "group": "1c90957195c88024"
-      },
-      {
-        "id": "4b8869fb6ae2cdff",
-        "type": "leaf",
-        "dimension": 30.688124306326298,
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "Art Bei Ton.md",
-            "options": {
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 1.6544233336605647
-            }
-          }
-        },
-        "group": "1c90957195c88024"
+        ],
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
@@ -103,13 +101,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 207.5,
-    "collapsed": true
+    "width": 207.5
   },
   "right": {
     "id": "cba9cefd658baa40",
@@ -125,12 +121,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Art Bei Ton.md",
+                "file": "mnml ssgs mx23 natural electronic.system. from napoli to rotterdam mix.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -150,16 +146,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Art Bei Ton.md"
+                "file": "mnml ssgs mx23 natural electronic.system. from napoli to rotterdam mix.md"
               }
-            }
-          },
-          {
-            "id": "40d840502fdc58de",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           },
           {
@@ -170,8 +158,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,15 +166,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Art Bei Ton.md",
-    "Forsvarlig Podcast Series 084 - Klara.md",
-    "Forsvarlig Podcast Series 084 - Klara embed.md",
-    "Klara Vedis.md",
+    "mnml ssgs mx23 natural electronic.system. from napoli to rotterdam mix.md",
+    "Paula Koski.md",
+    "daily/2020-11-28.md",
     "Klara.md",
-    "Art Bei Ton Podcast 027 - Klara.md",
-    "Art Bei Ton Podcast 027 - Klara - embed.md",
-    "Art Bei Ton Podcast series.md",
-    "The Bunker Podcast 129 - Atom™ & Tobias.md",
-    "Untitled 1.md"
+    "Lumisokea @ MUTEK 2015.md",
+    "Hyperterranean.md",
+    "daily/2020-11-25.md",
+    "AtomTM.md",
+    "Art Bei Ton Podcast 020 Paula Koski EMBED.md",
+    "Art Bei Ton Podcast 020 Paula Koski.md"
   ]
 }

@@ -1,6 +1,7 @@
 # [[Forsvarlig Podcast]] Series 084 - [[Klara Vedis|Klara]]
 
-#soundcloud https://soundcloud.com/forsvarligarkiv/forsvarlig-podcast-series-084-klara
+#soundcloud [Forsvarlig Podcast Series 084 - Klara](https://soundcloud.com/forsvarligarkiv/forsvarlig-podcast-series-084-klara)
+
 ![[Forsvarlig Podcast Series 084 - Klara embed#^ab436d]]
 
 # Description
